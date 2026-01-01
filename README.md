@@ -1,7 +1,10 @@
 # ExrPad v1
 The ExrPad v1 is a pretty small and neat macropad!
 
+## Some words
 Before i start, i just wanna thank @shadow and @rekirxs (both in the hackclub slack) for all the help through the process from the schematic to the case, couldnt have done it without you guys !
+
+TODO: write smth here (i really wanna write this now but its 12 am and i need my 3 hours of netflix before i go to sleep)
 ## Details
 ### Specifications
 The features include:
