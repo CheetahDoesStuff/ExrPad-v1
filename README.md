@@ -13,9 +13,7 @@ The features include:
 * A rotary encoder and switch (pressable rotary encoder)
 * A 128x32 OLED display
 
-The entire thing is inside a neat package consiting of:
-* A 3D printed case (top and bottom part)
-* A 3D printed knob for the rotary encoder
+The entire thing is inside a neat package consiting a 3D printed case (top and bottom part)
 
 ## Repository
 Folder structure:
@@ -36,4 +34,4 @@ ExrPad-v1 # Root
 ## Images!
 | Schematic       | PCB             | Case parts      | Full design (PCB and case) |
 |-----------------|-----------------|-----------------|----------------------------|
-| TODO: add image | TODO: add image | TODO: add image | TODO: add image            |
+| ![Schematic](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194253.png) | ![PCB](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194306.png) | ![Case](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194911.png) | ![Full](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194229.png) |
