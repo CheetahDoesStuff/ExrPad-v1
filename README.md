@@ -24,7 +24,7 @@ ExrPad-v1 # Root
     ExrPad.kicad_sch # KiCAD schematic
     ExrPad.kicad_pcb # KiCAD PCB Design
   /CAD # All files for the 3D design of the device
-    ExrPad_v1_top.step # Top part of the case
+    ExrPad_v1_top_rev2.step # Top part of the case
     ExrPad_v1_bottom.step # Bottom part of the case
     ExrPad_v1_assembled.step # Full case with pcb and components, used for images
   /Firmware # All files related to the firmware/software side of the project
