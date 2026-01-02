@@ -35,3 +35,12 @@ ExrPad-v1 # Root
 | Schematic       | PCB             | Case parts      | Full design (PCB and case) |
 |-----------------|-----------------|-----------------|----------------------------|
 | ![Schematic](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194253.png) | ![PCB](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194306.png) | ![Case](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194911.png) | ![Full](https://github.com/CheetahDoesStuff/ExrPad-v1/blob/main/img/swappy-20260102_194229.png) |
+
+
+## BOM
+- Seeed XIAO RP2040 — x1
+- MX-style mechanical switches — x6
+- EC11 rotary encoder (with switch) — x1
+- Blank DSA keycaps — x6
+- 0.91 inch OLED display — x1
+- M3 x 16 mm screws & M3 heat-set inserts — x4
